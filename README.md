@@ -1,0 +1,2 @@
+# mservices
+common properties
